@@ -1,4 +1,2 @@
 # docker
-Python script for docker
-
-Prune unused docker images and containers
+Simple scripts written in python for docker
